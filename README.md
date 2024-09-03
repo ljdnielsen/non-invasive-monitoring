@@ -13,3 +13,5 @@ The first step to addressing this problem is to identify a signal that will be u
 Another method is to lure a dunnart to a place where it will without exeption leave its trace when it goes there and where the dunnart will undoubtedly go if it is present. This could be by placing tiles.
 An even better way could be to confirm the presence of the dunnart using camera traps and then see if positives and negatives always perfectly correlate between camera trap and eDNA evidence.
 
+Besides identifying the presence of an animal we want to know how it interacts with the ecosystem in this particular place. This is done by non-invasively describing the other species the focal animal has been eating.
+
