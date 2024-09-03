@@ -15,3 +15,11 @@ An even better way could be to confirm the presence of the dunnart using camera 
 
 Besides identifying the presence of an animal we want to know how it interacts with the ecosystem in this particular place. This is done by non-invasively describing the other species the focal animal has been eating.
 
+To investigate the options for carrying out these surveys we conducted a literature review. 
+
+### Literature
+
+|Title |Author |DOI |Year|
+|------|-------|----|----|
+|Using eDNA metabarcoding to understand the effect of fire on the diet of small mammals in a woodland ecosystem |Wanniarachchi, York |10.1002/ece3.9457 |2022 |
+
