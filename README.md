@@ -1,6 +1,6 @@
 # Real-Time Ecosystem Monitoring
 
-This repository holds the development of the TIGRR Lab project to expand the dunnart model system to include non-invasive, real-time monitoring in the wild.
+This repository holds the TIGRR Lab project expanding the dunnart model system to include non-invasive, real-time monitoring in the wild.
 
 ## Motivation
 
