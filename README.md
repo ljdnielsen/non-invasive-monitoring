@@ -25,11 +25,25 @@ Improve trophic complexity. Raise the number of animals belonging to keystone sp
 
 |Title |Author |Year|
 |------|-------|----|
+|Molecular Caving |Michael Hofreiter |2003 |
 |Environmental DNA – An emerging tool in conservation for monitoring past and present biodiversity |Philip F. Thomsen & Eske Willerslev |2015
 |Environmental DNA metabarcoding: transforming how we survey animal and plant communities |Kristy Deiner |2017 |
 |Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects |Kingsley C. Beng |2020 |
 |A vision for global eDNA-based monitoring in a changing world |Philip F. Thomsen |2024 |
 
+## Sampling Techniques
 
+|Title |Author |Year|
+|------|-------|----|
+|Airborne environmental DNA for terrestrial vertebrate community monitoring |Christina Lynggaard |2022 |
+|eProbe: Sampling of Environmental DNA within Tree Canopies with Drones |Steffen Kirchgeorg |2024 |
 
+## The Fat-Tailed Dunnart as a Model System
+
+## Miscellaneous
+
+|Title |Author |Year |
+|------|-------|-----|
+|A molecular analysis of dietary diversity for three archaic Native Americans |Hendrik N. Poinar |2001 |
+|Using eDNA to develop a national citizen science-based monitoring programme for the great crested newt |Jeremy Biggs |2015 |
 
