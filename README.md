@@ -15,8 +15,11 @@ This project aims to enhance real-time ecosystem monitoring of trophic interacti
 - Greater trophic complexity.
 - Larger populations of threatened species.
 
-## Problems
+## Goals
 
+The goal of the project is to develop eDNA techniques that allow the monitoring of population structure and ecological interactions of a terrestrial mammal and expanding those techniques to provide continual ('real-time') information by making the technology accessible to citizen scientists or deploying automatic sampling devices.
+
+### eDNA-specific problems
 In order to improve real-time ecosystem monitoring the following short-comings of ecosystem monitoring need to be adressed:
 - Analyzing the temporal and spatial distribution of eDNA.
 - Establishing precise links between eDNA presence and species abundance.
