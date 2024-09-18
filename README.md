@@ -30,7 +30,7 @@ In order to improve real-time ecosystem monitoring the following short-comings o
 
 #### Human Impact on Nature
 
-It is estimated that ~3/4 of the Earth was inhabited at the end of the last glacial maximum 12,000 years ago when the ice sheets started contracting. From then on the the area with human pressence increased gradually, accelerated during the 19th century with the industrialization of economies, and tapered off in the 20th century with the spread of 'Green Revolution' technologies, such as high-yielding varieties of wheat and rice, chemical fertilizer, pesticides, and controlled irrigation, that increased the output of agricultural lands [^1].
+It is estimated that ~3/4 of the Earth was inhabited at the end of the last glacial maximum 12,000 years ago when the ice sheets started contracting. From then on the the area with human pressence increased gradually, accelerated during the 19th century with the industrialization of economies, and tapered off in the 20th century with the spread of 'Green Revolution' technologies, such as high-yielding varieties of wheat and rice, chemical fertilizer, pesticides, and controlled irrigation, that increased the output of agricultural lands in already inhabitet areas [^1].
 
 ## Literature
 
