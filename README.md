@@ -4,7 +4,7 @@ This repository holds the [TIGRR Lab](https://tigrrlab.science.unimelb.edu.au/) 
 
 ## Table of Contents
 1. [Motivation](#motivation)
-2. [Goals](#aims)
+2. [Problems](#problems)
 3. [Background](#background)
 4. [Literature](#literature)
 6. [References](#references)
