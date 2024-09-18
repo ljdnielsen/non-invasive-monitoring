@@ -4,39 +4,30 @@ This repository holds the [TIGRR Lab](https://tigrrlab.science.unimelb.edu.au/) 
 
 ## Table of Contents
 1. [Motivation](#motivation)
-2. [Background](#background)
-3. [Literature](#literature)
-   - [Biodiversity](#biodiversity)
-   - [Rewilding](#rewilding)
-   - [Environmental DNA](#environmental-dna)
-   - [Sampling Techniques](#sampling-techniques)
-   - [The Fat-Tailed Dunnart as a Model System](#the-fat-tailed-dunnart-as-a-model-system)
-   - [Miscellaneous](#miscellaneous)
-3. [Future Directions](#future-directions)
-4. [References](#references)
+2. [Goals](#aims)
+3. [Background](#background)
+4. [Literature](#literature)
+6. [References](#references)
 
 ## Motivation
 
-This project aims to enhance real-time ecosystem monitoring with a focus on:
-- Improving trophic complexity.
-- Increasing populations of keystone species.
-- Accelerating keystone species' reproductive rates.
-- Supporting environmental restoration and genetic rescue.
-- Providing real-time insights into trophic networks and population structures.
+This project aims to enhance real-time ecosystem monitoring of trophic interactions and population structure in the wild to facilitate interventions that will lead to:
+- Greater trophic complexity.
+- Larger populations of threatened species.
+
+## Problems
+
+In order to improve real-time ecosystem monitoring the following short-comings of ecosystem monitoring need to be adressed:
+- Analyzing the temporal and spatial distribution of eDNA.
+- Establishing precise links between eDNA presence and species abundance.
+- Investigating the exact sources of eDNA (the cell type of origin).
+- Studying the physio-chemical factors influencing eDNA availability and degradation.
 
 ## Background
 
 #### Human Impact on Nature
 
 It is estimated that ~3/4 of the Earth was inhabited at the end of the last glacial maximum 12,000 years ago when the ice sheets started contracting. From then on the the area with human pressence increased gradually, accelerated during the 19th century with the industrialization of economies, and tapered off in the 20th century with the spread of 'Green Revolution' technologies, such as high-yielding varieties of wheat and rice, chemical fertilizer, pesticides, and controlled irrigation, that increased the output of agricultural lands [^1].
-
-## Future Directions
-
-This section will outline the next steps in the project, including:
-- Analyzing the temporal and spatial distribution of eDNA.
-- Establishing precise links between eDNA presence and species abundance.
-- Investigating the exact sources of eDNA.
-- Studying the physio-chemical factors influencing eDNA availability and degradation.
 
 ## Literature
 
@@ -77,13 +68,13 @@ This section will outline the next steps in the project, including:
 ### The Fat-Tailed Dunnart as a Model System
 *Content in progress.*
 
-### Ecological Interactions
+### Monitoring Ecological Interactions
 
 | Title | Author | Year |
 |-------|--------|------|
 | A molecular analysis of dietary diversity for three archaic Native Americans | Hendrik N. Poinar | 2001 |
 
-### Time Series
+### Biodiversity Time Series
 
 | Title | Author | Year |
 |-------|--------|------|
