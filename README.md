@@ -33,52 +33,41 @@ It is estimated that ~3/4 of the Earth was inhabited at the end of the last glac
 
 ### Biodiversity
 
-| Title | Author | Year | Topic |
-|-------|--------|------|-------|
-| Conservation Where People Live and Work | James R. Miller & Richard J. Hobbs | 2002 | Human impact on nature |
-| Ecosystem recovery after climatic extremes enhanced by genotypic diversity | Thorsten B. H. Reusch | 2005 | Genetic variation |
-| Future of the human climate niche | Chi Xu | 2019 | Climate change |
-| People have shaped most of terrestrial nature for at least 12,000 years | Erle C. Ellis | 2021 | Human impact on nature |
+* Conservation Where People Live and Work, James R. Miller & Richard J. Hobbs, 2002: Human impact on nature
+* Ecosystem recovery after climatic extremes enhanced by genotypic diversity, Thorsten B. H. Reusch, 2005: Genetic variation
+* Future of the human climate niche, Chi Xu, 2019: Climate change
+* People have shaped most of terrestrial nature for at least 12,000 years, Erle C. Ellis, 2021: Human impact on nature
 
 ### Rewilding
 
-| Title | Author | Year | Topic |
-|-------|--------|------|-------|
-| Rewilding complex ecosystems | Andrea Perino | 2019 | Trophic complexity |
+* Rewilding complex ecosystems, Andrea Perino, 2019: Trophic complexity
 
 ### Non-Invasive Monitoring
 *Content in progress.*
 
 ### Environmental DNA (eDNA)
 
-| Title | Author | Year |
-|-------|--------|------|
-| Environmental DNA – An emerging tool in conservation for monitoring past and present biodiversity | Philip F. Thomsen & Eske Willerslev | 2015 |
-| Environmental DNA metabarcoding: transforming how we survey animal and plant communities | Kristy Deiner | 2017 |
-| Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects | Kingsley C. Beng | 2020 |
-| A vision for global eDNA-based monitoring in a changing world | Philip F. Thomsen | 2024 |
+* Environmental DNA – An emerging tool in conservation for monitoring past and present biodiversity, Philip F. Thomsen & Eske Willerslev, 2015
+* Environmental DNA metabarcoding: transforming how we survey animal and plant communities, Kristy Deiner, 2017
+* Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects, Kingsley C. Beng, 2020
+* A vision for global eDNA-based monitoring in a changing world, Philip F. Thomsen, 2024
 
 ### eDNA Sampling Techniques
 
-| Title | Author | Year |
-|-------|--------|------|
-| Airborne environmental DNA for terrestrial vertebrate community monitoring | Christina Lynggaard | 2022 |
-| eProbe: Sampling of Environmental DNA within Tree Canopies with Drones | Steffen Kirchgeorg | 2024 |
+* Airborne environmental DNA for terrestrial vertebrate community monitoring, Christina Lynggaard, 2022
+* eProbe: Sampling of Environmental DNA within Tree Canopies with Drones, Steffen Kirchgeorg, 2024
 
 ### The Fat-Tailed Dunnart as a Model System
 *Content in progress.*
 
 ### Monitoring Ecological Interactions
 
-| Title | Author | Year |
-|-------|--------|------|
-| A molecular analysis of dietary diversity for three archaic Native Americans | Hendrik N. Poinar | 2001 |
+* A molecular analysis of dietary diversity for three archaic Native Americans, Hendrik N. Poinar, 2001
 
 ### Biodiversity Time Series
 
-| Title | Author | Year |
-|-------|--------|------|
-| Using eDNA to develop a national citizen science-based monitoring programme for the great crested newt | Jeremy Biggs | 2015 |
+
+* Using eDNA to develop a national citizen science-based monitoring programme for the great crested newt, Jeremy Biggs, 2015
 
 ## Notes
 This README was created with the use of ChatGPT 4.0.
