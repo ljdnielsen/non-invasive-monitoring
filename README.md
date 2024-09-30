@@ -11,4 +11,4 @@ Follow the links below to read about the project.
 
 ## Experiments
 
-Follow the links below to read detailed descriptions of each experiment.
+Follow the links below to read detailed descriptions of the experiments.
