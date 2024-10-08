@@ -3,7 +3,12 @@
 ### High-School Student Sequences Aquarium Fish at Community Lab
 [Read on New Scientist](https://www.newscientist.com/article/2343515-high-school-student-is-first-to-sequence-the-angelfish-genome/)
 
-# Latest Reports from the Field
+# Conservation Projects
+
+### Conservationists use eDNA to Assess the Population Health of Pygmy Hippos
+[Read on Mongabay](https://news.mongabay.com/2021/07/scientists-turn-to-edna-to-curtail-the-freshwater-extinction-crisis/)
+
+# Latest Scientific Papers
 
 ### DNA from the Air Recapitulates the Animals at Copenhagen Zoo
 [Published in Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(21)01690-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221016900%3Fshowall%3Dtrue&fbclid=IwAR3Rjwdieihm1I9-5YgiwSgXnRTHW_h0D7cptKHxwOsG7G3wfR9OJ1dy4qA)
