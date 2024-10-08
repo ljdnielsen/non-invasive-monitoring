@@ -1,6 +1,4 @@
-# Motivation
-
-## Environmental DNA
+# Environmental DNA
 
 
 
