@@ -13,3 +13,12 @@
 
 ### Scientists Generate IPSCs out of Cells from Primate Urine
 [Published in Scientific Reports](https://www.nature.com/articles/s41598-021-82883-0)
+
+### Scientists Create Embryonic Stem Cells from Mouse Faecal Cells
+[Published in Scientific Reports](https://www.nature.com/articles/s41598-018-33304-2)
+
+### Field Biologist Sequences Full Host Genomes from Elephant Dung
+[Published in Frontiers in Genetics](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.1021004/full)
+
+### Nuclear DNA from Snow Tracks
+[Published in Frontiers Conservation Science](https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2023.1250996/full?trk=public_post_comment-text)
